@@ -1,0 +1,6 @@
+{
+  "name": "FRONTLINE: POLYGON ARENA",
+  "description": "Tactical 3D low-poly domination shooter with AI squad bots, capture objectives, procedural PBR arena, and real-time minimap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
